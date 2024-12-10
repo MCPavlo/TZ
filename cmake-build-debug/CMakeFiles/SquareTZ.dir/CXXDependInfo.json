@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/SquareTZ/cmake-build-debug",
+	"dir-cur-src" : "C:/SquareTZ",
+	"dir-top-bld" : "C:/SquareTZ/cmake-build-debug",
+	"dir-top-src" : "C:/SquareTZ",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\SquareTZ\\include",
+		"C:\\vcpkg\\installed\\x64-windows\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/SquareTZ/cmake-build-debug/CMakeFiles/SquareTZ.dir"
+}

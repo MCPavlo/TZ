@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\SquareTZ.dir\src\main.cpp.obj: dyndep
+
+build CMakeFiles\SquareTZ.dir\src\square.cpp.obj: dyndep
+
+build CMakeFiles\SquareTZ.dir\src\api.cpp.obj: dyndep
+
+build CMakeFiles\SquareTZ.dir\src\utils.cpp.obj: dyndep
+

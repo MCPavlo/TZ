@@ -1,0 +1,3 @@
+C:/SquareTZ/cmake-build-debug/CMakeFiles/SquareTZ.dir
+C:/SquareTZ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SquareTZ/cmake-build-debug/CMakeFiles/rebuild_cache.dir

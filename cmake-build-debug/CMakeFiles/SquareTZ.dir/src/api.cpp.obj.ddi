@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\SquareTZ.dir\\src\\api.cpp.obj",
+            "outputs": [
+                "C:\\SquareTZ\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\SquareTZ.dir\\src\\api.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
